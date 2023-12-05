@@ -103,7 +103,7 @@ sounddevice==0.4.6
     # via -r requirements.in
 soundfile==0.12.1
     # via -r requirements.in
-tiktoken==0.5.1
+tiktoken==0.4.0
     # via -r requirements.in
 tqdm==4.66.1
     # via openai
